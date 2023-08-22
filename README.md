@@ -1,4 +1,4 @@
-#Fashion Neural Network#
+# Fashion Neural Network #
 
 In this project I created a Neural Network to identify pieces of fashion given an image.
 I used the keras fashion dataset which is loaded in as training and test data. I then created a model with 3 layers, one layer flattening the data then two dense layers which looks at the pixels in an image and returns percentage of likelihood of each possible item.
